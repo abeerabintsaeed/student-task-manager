@@ -92,4 +92,3 @@ def delete_completed_tasks(tasks):
 
     print(
         f"{deleted_count} completed task(s) deleted."
-    )
